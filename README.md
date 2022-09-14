@@ -19,6 +19,12 @@ json-server --watch database.json
 Samuel Kienje
 
 
+# sections 
+1. class mean
+2. class performance list
+3. Awards
+
+
 # Link to live site on github pages
     https://samkienje.github.io/performance-analyser/
 
