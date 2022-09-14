@@ -1,0 +1,46 @@
+{
+  "student": [
+    {
+      "adm": "x004",
+      "fname": "Job",
+      "lname": "Macharia",
+      "score": "90",
+      "id": 11
+    },
+    {
+      "adm": "x005",
+      "fname": "Geofrey",
+      "lname": "Muthuri",
+      "score": "56",
+      "id": 12
+    },
+    {
+      "adm": "x003",
+      "fname": "Davies ",
+      "lname": "Muthuri",
+      "score": "96",
+      "id": 13
+    },
+    {
+      "adm": "x001",
+      "fname": "Stephen",
+      "lname": "kambua",
+      "score": "88",
+      "id": 15
+    },
+    {
+      "adm": "x002",
+      "fname": "nicholas",
+      "lname": "Macharia",
+      "score": "69",
+      "id": 16
+    },
+    {
+      "adm": "x007",
+      "fname": "samuel",
+      "lname": "kienje 254",
+      "score": "81",
+      "id": 17
+    }
+  ]
+}
