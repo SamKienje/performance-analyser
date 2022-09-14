@@ -41,6 +41,62 @@
       "lname": "kienje 254",
       "score": "81",
       "id": 17
+    },
+    {
+      "adm": "x006",
+      "fname": "Ian",
+      "lname": "Kamau",
+      "score": "76",
+      "id": 18
+    },
+    {
+      "adm": "x008",
+      "fname": "Sheila",
+      "lname": "Mwanyigha",
+      "score": "68",
+      "id": 19
+    },
+    {
+      "adm": "x009",
+      "fname": "Abraham",
+      "lname": "Mutai",
+      "score": "61",
+      "id": 20
+    },
+    {
+      "adm": "x010",
+      "fname": "Mwaura",
+      "lname": "Alex",
+      "score": "95",
+      "id": 21
+    },
+    {
+      "adm": "x011",
+      "fname": "James",
+      "lname": "Wambugu",
+      "score": "89",
+      "id": 22
+    },
+    {
+      "adm": "x012",
+      "fname": "Dennis",
+      "lname": "Gitu",
+      "score": "86",
+      "id": 23
+    },
+    {
+      "adm": "x013",
+      "fname": "Ivory",
+      "lname": "Wachira",
+      "score": "74",
+      "id": 24
+    },
+    {
+      "adm": "x014",
+      "fname": "Austin",
+      "lname": "Gichuki",
+      "score": "80",
+      "id": 25
     }
   ]
 }
