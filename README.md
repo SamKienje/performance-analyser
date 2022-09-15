@@ -24,6 +24,8 @@ Samuel Kienje
 2. class performance list
 3. Awards
 4. Students to retake  
+5. footer
+6. main section
 
 
 
