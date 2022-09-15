@@ -38,5 +38,9 @@ I styled my website with Bootstrap and a minimal amount of CSS.
     https://samkienje.github.io/performance-analyser/
 
 
-# Copyright and license info
+# license info
+MIT License
 
+
+# Copyright
+Copyright (c) 2022 SamKienje
