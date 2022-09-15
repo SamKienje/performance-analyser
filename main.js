@@ -32,7 +32,9 @@ document.addEventListener("DOMContentLoaded", ()=>{
                 totalSum += scoreArr[i]
                
             }
-            document.getElementById("mean-value").textContent= totalSum/scoreArr.length
+ 
+
+            document.getElementById("mean-value").textContent= Math.round(totalSum/scoreArr.length)
 
 
             
