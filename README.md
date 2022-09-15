@@ -26,6 +26,12 @@ Samuel Kienje
 4. Students to retake  
 
 
+
+# styling
+
+I styled my website with Bootstrap and a minimal amount of CSS.
+
+
 # Link to live site on github pages
     https://samkienje.github.io/performance-analyser/
 
