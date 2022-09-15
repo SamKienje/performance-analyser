@@ -23,6 +23,7 @@ Samuel Kienje
 1. class mean
 2. class performance list
 3. Awards
+4. Students to retake  
 
 
 # Link to live site on github pages

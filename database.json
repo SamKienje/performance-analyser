@@ -97,6 +97,34 @@
       "lname": "Gichuki",
       "score": "80",
       "id": 25
+    },
+    {
+      "adm": "x016",
+      "fname": "Dennis",
+      "lname": "Kipchumba",
+      "score": "37",
+      "id": 26
+    },
+    {
+      "adm": "x015",
+      "fname": "Milka",
+      "lname": "Wairimu",
+      "score": "26",
+      "id": 27
+    },
+    {
+      "adm": "x017",
+      "fname": "Jane ",
+      "lname": "Njeri",
+      "score": "39",
+      "id": 28
+    },
+    {
+      "adm": "x017",
+      "fname": "Simon",
+      "lname": "Kanja",
+      "score": "31",
+      "id": 29
     }
   ]
 }

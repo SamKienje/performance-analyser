@@ -135,3 +135,28 @@ return axios.patch(`http://localhost:3000/student/${edit.id}`, {
 )
 }
 
+// fetch failed students
+
+
+axios.get("http://localhost:3000/student").then(res=>{
+    let passed = res.data;
+    passed.sort((a, b) => {
+        return b.score - a.score;
+            });
+
+    passed.map((item,index)=>{
+        if(item.score<40) {
+            let tr = document.createElement("tr")
+            tr.innerHTML = `
+            <th scope="row">${index+1}</th>
+            <th scope="row">${item.adm}</th>
+              <td>${item.fname}</td>
+              <td>${item.lname}</td>
+              <td>${item.score}</td>
+            `
+
+            document.getElementById("tfail").appendChild(tr)
+              
+        }
+    })
+})
